@@ -7,8 +7,8 @@ The geologic maps of the Badger and Candy Mountain Preserves and surrounding are
 
 For questions on the GIS or Geology displayed in these maps, please contact the authors at:
 Patty Newman (GIS & Geology): pattynewman88@gmail.com
-Karl Fecht (Geology): 
-Mickie Chamness (Geology):
+Karl Fecht (Geology): krfecht@mac.com 
+Mickie Chamness (Geology): mickiec@charter.net 
 
 
 
