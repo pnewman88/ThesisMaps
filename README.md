@@ -5,7 +5,7 @@ Badger and Candy Mountain Geologic Maps
 The geologic maps of the Badger and Candy Mountain Preserves and surrounding area have been updated to incorporate information collected since previous published mapping. The map includes details discovered during surface mapping and from the examination of excavations created during urban development. The field investigations have resulted in new insights into the stratigraphy, structures and landforms of the mountains' and the processes involved in the evolution of the ridge landscape.
 
 
-For questions on the GIS or Geology displayed in these maps, please contact the authors at:
+For questions on the GIS or Geology displayed in these maps or requests for the data, please contact the authors at:
 
 Patty Newman (GIS & Geology):
 pattynewman88@gmail.com
